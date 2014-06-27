@@ -1,7 +1,7 @@
 <?php
 
 // Sub Controller Class
-class IndexController extends MAsterController {
+class IndexController extends MasterController {
 
 	// Constructor
 	public function __construct($request_origin, $uri_arr, $locale_arr, $resource_slug) {
